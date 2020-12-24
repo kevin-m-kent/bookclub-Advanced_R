@@ -18,7 +18,7 @@ This repo contains 3 main folders:
 
 *Cohort 2 [Americas]: (started 2020-07-30) - Thursdays, 7:30pm EDT/EST*
 
-- 2021-01-07 Chapter 20: Evaluation
+- 2021-01-07 Chapter 20: Evaluation - Kevin Kent
 - 2021-01-14 Chapter 21: Translating R code
 - 2021-01-21 Metaprogramming Recap
 
